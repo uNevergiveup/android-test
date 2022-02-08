@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_ayuda"
+        android:icon="@drawable/ic_help"
+        android:title="@string/ayuda"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_informacion"
+        android:icon="@drawable/ic_info"
+        android:title="@string/informacion"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_oficinas"
+        android:title="@string/oficinas" />
+    <item
+        android:id="@+id/nav_acercade"
+        android:title="@string/acerca_de" />
+    <item android:title="@string/herramientas" >
+        <menu >
+            <item
+                android:id="@+id/nav_contactos"
+                android:title="@string/nav_conctactos" />
+            <item
+                android:id="@+id/nav_calendario"
+                android:title="@string/nav_calendario" />
+        </menu>
+    </item>
+</menu>

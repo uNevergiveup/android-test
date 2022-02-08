@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable/border_boton.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable/ic_baseline_corporate_fare_24.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable/ic_baseline_store_24.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable/ic_help.xml" value="0.113" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable/relleno_boton.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/drawable/text_border.xml" value="0.113" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/font/poppins.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/activity_acerca_de.xml" value="0.25" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/activity_ayuda.xml" value="0.1984375" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/activity_empezar.xml" value="0.1984375" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/activity_empleados.xml" value="0.33" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/activity_escritorio.xml" value="0.33" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/activity_informacion.xml" value="0.33" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/activity_oficinas.xml" value="0.25" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/activity_tienda.xml" value="0.31992337164750956" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/fragment_cusco.xml" value="0.25" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/fragment_ica.xml" value="0.25" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/fragment_puno.xml" value="0.1349952963311383" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/item_categoria.xml" value="0.33" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/item_empleados.xml" value="0.33" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/layout/item_proovedor.xml" value="0.33" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/menu/menu_principal.xml" value="0.1984375" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.20462962962962963" />
+        <entry key="..\:/Proyectos/AndroidStudioProjects/tienda-perfect/app/src/main/res/mipmap-anydpi-v26/ic_logo_round.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/antonio/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/antonio/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.1984375" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/drawable/fondo_boton.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/drawable/ic_help.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/drawable/ic_info.xml" value="0.21128205128205127" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/activity_acerca_de.xml" value="0.25" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/activity_ayuda.xml" value="0.33" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/activity_empezar.xml" value="0.31153846153846154" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/activity_informacion.xml" value="0.33" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/activity_oficinas.xml" value="0.25" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/activity_splash.xml" value="0.1984375" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/activity_terminos.xml" value="0.33" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/fragment_cusco.xml" value="0.33" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/fragment_ica.xml" value="0.25" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/layout/fragment_puno.xml" value="0.25215089344804764" />
+        <entry key="..\:/Users/antonio/OneDrive/Desktop/AndroidStudioProjects/Sesion1MyApp/app/src/main/res/menu/menu_principal.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Sesion1MyApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/color_2</item>
+        <item name="colorPrimaryVariant">@color/color_1</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/color_3</item>
+        <item name="colorSecondaryVariant">@color/color_4</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+        <item name="android:textViewStyle">@style/texto_normal</item>
+        <!-- Por defecto los textView tendria el formato definido en el estilo texto_normal -->
+        <item name="materialButtonStyle">@style/boton_normal</item>
+    </style>
+
+    <!-- Para eliminar la barra de titulos o acciones-->
+    <style name="Theme.Sesion1MyApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

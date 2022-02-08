@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Tienda Perfect</string>
+    <string name="saludo">Bienvenido</string>
+    <string name="frase">En tiempos de crisis sólo la imaginación es mas importante que la inteligencia</string>
+    <string name="derechos">2022 - Todos los derechos reservados</string>
+    <string name="descripcion_logo">Logo de la empresa</string>
+    <string name="string_descripcion_logo">Logo de la aplicacion</string>
+    <string name="btn_empezar">Empezar</string>
+    <string name="texto_empezar">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="terminos">Terminos y condiciones</string>
+    <string name="terminos_contenido">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod justo non urna scelerisque, sit amet lobortis urna congue. Vestibulum feugiat non metus ut lobortis. Aliquam pretium interdum maximus. Ut eu enim eu massa ultricies consequat. Quisque elit nisl, dictum vel sapien eu, interdum facilisis tortor. Integer blandit eu nulla sit amet pellentesque. Etiam volutpat euismod tellus, vitae tempor velit facilisis quis. Donec non volutpat ex. Morbi finibus odio id gravida rutrum. Donec nec venenatis magna, nec hendrerit risus.
+\n\n
+Fusce consectetur mauris metus, at pretium sem ullamcorper vitae. Nam vel massa nec mauris pharetra rhoncus. Donec posuere nibh a augue pretium fringilla. Praesent eget consectetur tortor, vitae efficitur metus. Morbi sit amet mi at nulla posuere hendrerit a euismod massa. Vestibulum sed massa sit amet diam ornare imperdiet. Sed aliquet nibh quis nibh mattis laoreet. Sed condimentum enim nec est mollis porta. Duis maximus congue sem ac elementum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+\n\n
+Fusce nec ligula at libero bibendum placerat nec quis purus. Praesent maximus est sit amet venenatis pulvinar. Quisque eget enim auctor, elementum odio non, cursus dolor. Nullam porta eros eu dictum vehicula. Vivamus fermentum laoreet turpis, quis dictum arcu tincidunt nec. Fusce tincidunt orci at lectus dapibus lobortis. Nunc pretium tincidunt ligula eget tristique. Integer tempor dignissim nisl, vel tempor tellus egestas vel. Donec rhoncus quam sapien, sed iaculis justo ultrices in. Maecenas vestibulum, mi nec sodales lacinia, libero mi rutrum felis, non blandit tortor lacus vitae risus. Nunc feugiat neque ut fermentum lacinia. Aenean libero nisl, suscipit vel massa quis, molestie rutrum nisi. Morbi suscipit turpis cursus, fermentum libero et, iaculis nibh. Proin eu dui in leo aliquet viverra. Suspendisse ac tempus velit, non sagittis turpis.
+\n\n
+Nulla egestas laoreet viverra. Nam lacinia felis mollis pellentesque placerat. In eleifend dolor a eros volutpat, id porttitor urna sodales. Fusce vitae nisi facilisis, tincidunt mi in, egestas quam. Nullam malesuada ligula ac libero lacinia consectetur vitae non leo. Curabitur mollis tincidunt nisi vel consectetur. Cras viverra augue arcu. Mauris sed turpis nec ex dapibus consequat. In in lorem ultricies, pellentesque magna non, varius quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris non justo hendrerit, hendrerit nisl a, tempor tortor. Proin ac feugiat arcu. Integer ultrices semper pulvinar. Morbi sed lectus mollis, porta est sed, faucibus felis. Mauris quis ligula in purus pharetra iaculis vitae et nulla. Fusce eget condimentum quam.
+\n\n
+Morbi ullamcorper velit neque, a suscipit libero sollicitudin a. Cras lacinia dolor at elit euismod varius. Aenean consequat faucibus tincidunt. Phasellus lorem erat, consequat eu tortor nec, ornare ultrices eros. Ut pulvinar in purus id bibendum. Vestibulum turpis odio, finibus non lorem non, pharetra vestibulum quam. In pretium lacinia turpis.
+    </string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar_contrasena">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="oficinas">Oficinas</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="informacion">Información</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="herramientas">Herramientas</string>
+    <string name="nav_conctactos">Contactos</string>
+    <string name="nav_calendario">Calendario</string>
+    <string name="sedes">Sedes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icono_tienda">icono_tienda</string>
+    <string name="phone">+51970808318</string>
+    <string name="web">www.google.com</string>
+    <string name="label_telefono">Telefono:</string>
+    <string name="label_correo">Correo:</string>
+    <string name="label_email">Email:</string>
+    <string name="correo">andrewsantonio1012@gmail.com</string>
+    <string name="label_web">Email:</string>
+    <string name="puno">Puno</string>
+    <string name="ica">Ica</string>
+    <string name="cusco">Cusco</string>
+    <string name="tvip">My IP</string>
+</resources>
